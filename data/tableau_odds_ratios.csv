@@ -1,0 +1,33 @@
+term,odds_ratio,ci_low,ci_high,p_value,model,variable_group,level,significant
+item_views_grp = 1,2.875905198780494,2.4057037684827876,3.4380087942368998,4.24329646392915e-31,All new users,Item views (vs 0),1 item,True
+item_views_grp = 2-3,3.1864882543792854,2.674335519598417,3.796721585936923,1.9711621336706762e-38,All new users,Item views (vs 0),2-3 items,True
+item_views_grp = 4+,4.78662378467905,4.030223205705979,5.684987179771278,3.3099016186530213e-71,All new users,Item views (vs 0),4+ items,True
+engagement_grp = 10-60sn,2.579928678367014,1.980821547840899,3.3602380753155985,2.0708942594150173e-12,All new users,Engagement time (vs 0-10s),10-60 s,True
+engagement_grp = 1-5dk,10.137876738068744,7.905288663286975,13.000985686149685,2.0392778172112748e-74,All new users,Engagement time (vs 0-10s),1-5 min,True
+engagement_grp = 5dk+,46.29445354840483,35.78990310313826,59.8821523257348,1.5986173818273707e-187,All new users,Engagement time (vs 0-10s),5+ min,True
+device_category = mobile,1.0657507090104221,0.979831364978997,1.1592041389495265,0.13757891849940632,All new users,Device (vs desktop),Mobile,False
+device_category = tablet,0.8699946531939514,0.6458470316165047,1.1719349312353817,0.3595578481633682,All new users,Device (vs desktop),Tablet,False
+channel_group = Direct,0.9607442996025035,0.8634095722497789,1.0690518600732846,0.4624615924150137,All new users,Channel (vs Organic Search),Direct,False
+channel_group = Paid Search,1.1168779501427035,0.930312544122935,1.3408572886555952,0.23587839999317384,All new users,Channel (vs Organic Search),Paid Search,False
+channel_group = Referral,0.9607612486012883,0.8255982858201445,1.1180524386590045,0.6048350184434462,All new users,Channel (vs Organic Search),Referral,False
+channel_group = Unknown,0.9661453556254347,0.8669676309685418,1.07666862620211,0.5331370641573473,All new users,Channel (vs Organic Search),Unknown,False
+period = 2_sezon,1.1524317396361818,1.0274580114417569,1.2926065101748072,0.015414775483676436,All new users,Period (vs early Nov),Peak season (Nov 23 - Dec 20),True
+period = 3_tatil,0.6465688748784236,0.539491261448774,0.7748991315242009,2.350674728580444e-06,All new users,Period (vs early Nov),Holidays (Dec 21 - Jan 3),True
+period = 4_ocak,0.9755692502949459,0.8532486304531559,1.1154255959550514,0.7174590844719103,All new users,Period (vs early Nov),January,False
+added_to_cart,3.06714920904071,2.775774777789195,3.3891093563476047,2.512891274826233e-107,All new users,Cart,Added to cart,True
+item_views_grp = 1,1.9370001701211101,1.5490100328480363,2.4221726002321455,6.743905027772833e-09,First-session non-buyers,Item views (vs 0),1 item,True
+item_views_grp = 2-3,2.42833719192585,1.9490483407442407,3.0254875645817125,2.5968380359872e-15,First-session non-buyers,Item views (vs 0),2-3 items,True
+item_views_grp = 4+,4.684374207060156,3.7653940855590458,5.827640138897319,1.1141353456989634e-43,First-session non-buyers,Item views (vs 0),4+ items,True
+engagement_grp = 10-60sn,2.9249331266738596,2.24661357760951,3.8080575497176707,1.5526442584035973e-15,First-session non-buyers,Engagement time (vs 0-10s),10-60 s,True
+engagement_grp = 1-5dk,8.658947847435035,6.6562379229769935,11.264227434806942,3.293436156049779e-58,First-session non-buyers,Engagement time (vs 0-10s),1-5 min,True
+engagement_grp = 5dk+,14.839066872852374,11.048561058557999,19.930007581070818,7.841397744669974e-72,First-session non-buyers,Engagement time (vs 0-10s),5+ min,True
+device_category = mobile,1.0385626706218527,0.9176527618805117,1.1754036664139,0.5490653121788489,First-session non-buyers,Device (vs desktop),Mobile,False
+device_category = tablet,0.8652308736487696,0.5564271193158178,1.3454133321817976,0.5204249885275991,First-session non-buyers,Device (vs desktop),Tablet,False
+channel_group = Direct,0.8334332490912065,0.710663777524611,0.9774115448942663,0.02502770992547716,First-session non-buyers,Channel (vs Organic Search),Direct,False
+channel_group = Paid Search,1.006571205678736,0.7698224860074354,1.3161288615460869,0.9618166040129619,First-session non-buyers,Channel (vs Organic Search),Paid Search,False
+channel_group = Referral,0.8958041564902683,0.7181905276221322,1.1173428998599229,0.3291129172017604,First-session non-buyers,Channel (vs Organic Search),Referral,False
+channel_group = Unknown,0.8681682052634883,0.7400640778688108,1.0184469901591895,0.08264188124650056,First-session non-buyers,Channel (vs Organic Search),Unknown,False
+period = 2_sezon,1.7266987819757902,1.4561433686560625,2.04752412973485,3.345421230113815e-10,First-session non-buyers,Period (vs early Nov),Peak season (Nov 23 - Dec 20),True
+period = 3_tatil,0.6182026293276663,0.45684884029714024,0.8365447325182415,0.0018302203816900446,First-session non-buyers,Period (vs early Nov),Holidays (Dec 21 - Jan 3),True
+period = 4_ocak,1.3105625796115445,1.0759297410168533,1.59636285679286,0.007207844082404933,First-session non-buyers,Period (vs early Nov),January,True
+added_to_cart,1.70725380163749,1.4560752867612756,2.0017615639152946,4.470450155644665e-11,First-session non-buyers,Cart,Added to cart,True

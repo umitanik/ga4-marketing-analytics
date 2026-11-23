@@ -1,0 +1,16 @@
+channel_group,device_category,users,view_item_users,add_to_cart_users,begin_checkout_users,add_payment_info_users,purchase_users
+Referral,desktop,14652,3363,703,535,322,237
+Direct,desktop,37362,8531,1816,1327,765,568
+Organic Search,desktop,59047,13241,2586,1978,1146,874
+Paid Search,desktop,8349,1838,343,268,161,130
+Unknown,desktop,37495,8724,1813,1450,884,687
+Unknown,mobile,25745,6078,1278,1004,614,484
+Direct,mobile,25332,5665,1222,901,532,415
+Paid Search,mobile,5604,1207,240,183,110,83
+Organic Search,mobile,40441,8947,1811,1419,830,642
+Referral,mobile,10053,2263,456,350,207,160
+Organic Search,tablet,2294,507,97,70,37,26
+Referral,tablet,545,134,26,22,16,12
+Paid Search,tablet,338,76,16,12,10,5
+Unknown,tablet,1479,377,75,62,37,32
+Direct,tablet,1418,301,56,48,29,22

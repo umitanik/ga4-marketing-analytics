@@ -1,0 +1,16 @@
+channel_group,device_category,users,new_users,sessions,returning_visitors,purchasers,repeat_purchasers,orders,revenue_usd
+Referral,desktop,14652,13882,19638,2569,239,27,269,19360.0
+Unknown,desktop,37495,34329,50644,6842,693,91,851,54194.0
+Direct,desktop,37362,35713,49854,6542,568,80,705,46658.0
+Paid Search,desktop,8349,8237,10934,1419,131,17,154,10908.0
+Organic Search,desktop,59047,57309,77898,10046,881,91,1053,63315.0
+Unknown,mobile,25745,23535,34962,4716,488,56,574,38612.0
+Paid Search,mobile,5604,5536,7390,975,83,6,90,5694.0
+Direct,mobile,25332,24262,33889,4466,417,52,491,29325.0
+Organic Search,mobile,40441,39228,53415,6930,647,79,790,51585.0
+Referral,mobile,10053,9496,13500,1795,162,19,194,11418.0
+Referral,tablet,545,517,733,89,12,0,12,677.0
+Paid Search,tablet,338,330,425,52,5,0,5,317.0
+Unknown,tablet,1479,1354,2014,276,33,7,43,3634.0
+Organic Search,tablet,2294,2223,2940,387,27,3,30,1389.0
+Direct,tablet,1418,1363,1893,260,22,0,22,1067.0

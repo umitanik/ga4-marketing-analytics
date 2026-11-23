@@ -1,0 +1,526 @@
+cohort_week,channel_group,week_number,cohort_size,active_users,is_complete_week,is_partial_cohort
+2020-12-21,Unknown,1,3930,50,True,False
+2020-12-28,Referral,2,1551,11,True,False
+2020-10-26,Unknown,13,437,0,False,True
+2020-11-16,Referral,7,1564,3,True,False
+2020-11-09,Referral,7,1327,4,True,False
+2020-12-07,Paid Search,3,1532,8,True,False
+2020-11-30,Referral,0,1903,1903,True,False
+2020-12-21,Paid Search,5,921,2,False,False
+2020-11-16,Unknown,7,3854,9,True,False
+2020-11-09,Paid Search,10,814,0,True,False
+2020-12-14,Direct,3,5820,56,True,False
+2020-10-26,Referral,7,190,0,True,True
+2020-10-26,Unknown,4,437,2,True,True
+2020-12-28,Organic Search,4,6250,15,False,False
+2020-11-16,Direct,9,4084,14,True,False
+2020-11-30,Organic Search,3,8202,45,True,False
+2020-12-21,Organic Search,3,6588,59,True,False
+2020-11-30,Referral,3,1903,8,True,False
+2020-12-14,Organic Search,2,9211,75,True,False
+2020-12-21,Referral,2,1622,17,True,False
+2020-11-23,Paid Search,1,983,25,True,False
+2020-11-09,Unknown,2,3409,55,True,False
+2020-10-26,Referral,5,190,1,True,True
+2020-12-07,Organic Search,2,10516,61,True,False
+2020-11-16,Direct,0,4084,4084,True,False
+2021-01-04,Unknown,3,5106,20,False,False
+2020-11-02,Unknown,7,3808,6,True,False
+2020-11-09,Organic Search,3,5563,91,True,False
+2020-11-30,Unknown,0,4837,4837,True,False
+2020-10-26,Direct,1,472,6,True,True
+2020-10-26,Direct,12,472,0,True,True
+2021-01-04,Organic Search,1,8764,155,True,False
+2020-11-09,Organic Search,9,5563,17,True,False
+2020-10-26,Paid Search,13,97,0,False,True
+2020-11-02,Organic Search,4,6353,64,True,False
+2020-11-23,Paid Search,8,983,4,True,False
+2020-12-28,Direct,1,3927,53,True,False
+2020-12-07,Unknown,1,6384,105,True,False
+2020-12-21,Direct,2,3952,41,True,False
+2020-12-14,Referral,2,2262,24,True,False
+2020-12-07,Referral,6,2600,9,True,False
+2020-10-26,Organic Search,3,750,3,True,True
+2020-11-09,Direct,3,3477,75,True,False
+2020-11-09,Direct,1,3477,120,True,False
+2020-11-23,Unknown,0,4316,4316,True,False
+2020-11-16,Unknown,9,3854,4,True,False
+2020-11-02,Organic Search,8,6353,8,True,False
+2020-11-23,Paid Search,4,983,7,True,False
+2021-01-11,Paid Search,2,1083,11,False,False
+2020-11-09,Unknown,11,3409,3,False,False
+2020-11-30,Direct,7,5004,16,True,False
+2020-11-02,Direct,8,3860,8,True,False
+2020-11-16,Paid Search,8,900,2,True,False
+2020-11-02,Unknown,11,3808,4,True,False
+2020-11-23,Referral,1,1749,52,True,False
+2020-11-16,Unknown,0,3854,3854,True,False
+2020-11-23,Paid Search,3,983,14,True,False
+2020-10-26,Referral,9,190,0,True,True
+2020-11-23,Organic Search,0,7200,7200,True,False
+2020-12-28,Paid Search,4,857,4,False,False
+2020-12-14,Unknown,5,5585,23,True,False
+2020-11-02,Unknown,9,3808,13,True,False
+2021-01-04,Referral,2,2006,19,True,False
+2020-10-26,Paid Search,4,97,1,True,True
+2020-12-21,Paid Search,2,921,6,True,False
+2020-11-02,Paid Search,6,947,9,True,False
+2020-11-09,Unknown,9,3409,12,True,False
+2020-10-26,Referral,12,190,0,True,True
+2020-11-02,Direct,6,3860,18,True,False
+2020-11-02,Direct,3,3860,45,True,False
+2020-12-07,Referral,4,2600,24,True,False
+2020-10-26,Organic Search,2,750,8,True,True
+2020-12-28,Unknown,3,3715,22,True,False
+2020-11-30,Organic Search,6,8202,23,True,False
+2020-12-07,Direct,1,6526,98,True,False
+2020-11-02,Organic Search,1,6353,156,True,False
+2020-11-23,Paid Search,0,983,983,True,False
+2021-01-18,Unknown,0,4724,4724,True,False
+2020-12-14,Paid Search,0,1343,1343,True,False
+2020-11-02,Unknown,2,3808,60,True,False
+2020-11-02,Unknown,3,3808,48,True,False
+2020-11-09,Direct,0,3477,3477,True,False
+2020-12-21,Organic Search,2,6588,67,True,False
+2021-01-18,Paid Search,0,1124,1124,True,False
+2021-01-11,Direct,1,5074,104,True,False
+2020-11-16,Unknown,6,3854,10,True,False
+2020-11-02,Paid Search,8,947,2,True,False
+2020-11-16,Organic Search,2,6504,167,True,False
+2020-11-16,Organic Search,10,6504,6,False,False
+2021-01-18,Organic Search,1,7659,128,False,False
+2020-12-07,Referral,3,2600,17,True,False
+2020-11-09,Referral,5,1327,12,True,False
+2020-11-16,Direct,7,4084,19,True,False
+2020-11-30,Referral,6,1903,5,True,False
+2020-11-23,Unknown,2,4316,71,True,False
+2020-10-26,Paid Search,6,97,0,True,True
+2020-11-02,Paid Search,1,947,24,True,False
+2020-11-09,Unknown,0,3409,3409,True,False
+2020-10-26,Referral,13,190,0,False,True
+2020-12-07,Unknown,7,6384,9,False,False
+2020-12-07,Unknown,0,6384,6384,True,False
+2020-11-23,Organic Search,8,7200,30,True,False
+2020-11-23,Organic Search,1,7200,211,True,False
+2021-01-04,Paid Search,1,1207,20,True,False
+2020-12-28,Paid Search,1,857,14,True,False
+2020-10-26,Direct,11,472,0,True,True
+2020-10-26,Unknown,7,437,1,True,True
+2020-10-26,Unknown,1,437,7,True,True
+2020-10-26,Organic Search,13,750,0,False,True
+2020-12-07,Organic Search,0,10516,10516,True,False
+2020-11-02,Referral,11,1532,3,True,False
+2020-11-23,Referral,4,1749,9,True,False
+2020-11-23,Referral,2,1749,36,True,False
+2020-11-09,Organic Search,2,5563,125,True,False
+2020-11-02,Organic Search,5,6353,54,True,False
+2020-11-02,Organic Search,7,6353,11,True,False
+2020-11-02,Paid Search,2,947,12,True,False
+2020-11-02,Direct,7,3860,8,True,False
+2020-12-28,Organic Search,3,6250,37,True,False
+2020-10-26,Organic Search,10,750,0,True,True
+2020-11-16,Referral,10,1564,2,False,False
+2020-12-14,Unknown,1,5585,80,True,False
+2020-11-02,Referral,12,1532,1,False,False
+2020-12-07,Paid Search,1,1532,24,True,False
+2021-01-11,Unknown,0,4807,4807,True,False
+2020-12-07,Direct,6,6526,28,True,False
+2020-11-30,Referral,7,1903,6,True,False
+2020-11-23,Unknown,1,4316,115,True,False
+2020-11-09,Paid Search,3,814,15,True,False
+2020-12-21,Referral,1,1622,18,True,False
+2020-11-02,Paid Search,11,947,3,True,False
+2020-11-30,Direct,1,5004,128,True,False
+2020-12-28,Referral,4,1551,3,False,False
+2020-12-28,Referral,1,1551,21,True,False
+2020-10-26,Direct,0,472,472,True,True
+2020-12-14,Referral,1,2262,31,True,False
+2020-11-16,Paid Search,10,900,1,False,False
+2020-11-16,Referral,9,1564,5,True,False
+2020-11-16,Direct,8,4084,14,True,False
+2021-01-11,Organic Search,2,8025,70,False,False
+2020-11-02,Referral,4,1532,19,True,False
+2020-11-09,Direct,10,3477,15,True,False
+2020-11-23,Unknown,3,4316,34,True,False
+2020-12-14,Direct,2,5820,54,True,False
+2020-11-02,Paid Search,4,947,11,True,False
+2020-11-09,Unknown,8,3409,10,True,False
+2020-11-23,Organic Search,7,7200,27,True,False
+2021-01-18,Organic Search,0,7659,7659,True,False
+2020-10-26,Organic Search,7,750,0,True,True
+2020-10-26,Organic Search,0,750,750,True,True
+2020-12-07,Organic Search,3,10516,68,True,False
+2020-11-16,Direct,2,4084,99,True,False
+2020-12-28,Unknown,0,3715,3715,True,False
+2020-11-09,Organic Search,1,5563,209,True,False
+2020-11-30,Unknown,5,4837,27,True,False
+2020-11-30,Organic Search,0,8202,8202,True,False
+2020-12-21,Organic Search,4,6588,36,True,False
+2020-10-26,Paid Search,5,97,0,True,True
+2020-11-23,Direct,4,4486,29,True,False
+2021-01-11,Paid Search,0,1083,1083,True,False
+2020-11-30,Paid Search,7,1249,5,True,False
+2020-12-14,Referral,6,2262,11,False,False
+2020-11-16,Paid Search,2,900,18,True,False
+2020-10-26,Unknown,11,437,0,True,True
+2020-10-26,Organic Search,8,750,1,True,True
+2020-12-07,Organic Search,6,10516,40,True,False
+2020-11-09,Direct,8,3477,10,True,False
+2020-11-09,Organic Search,11,5563,8,False,False
+2020-11-30,Referral,8,1903,3,False,False
+2020-11-23,Unknown,5,4316,18,True,False
+2020-11-23,Direct,0,4486,4486,True,False
+2020-10-26,Referral,10,190,0,True,True
+2020-12-07,Unknown,3,6384,31,True,False
+2020-11-02,Direct,4,3860,46,True,False
+2020-12-21,Direct,4,3952,18,True,False
+2020-12-14,Referral,0,2262,2262,True,False
+2020-11-09,Referral,9,1327,5,True,False
+2020-11-02,Referral,10,1532,5,True,False
+2021-01-04,Direct,2,5375,49,True,False
+2020-11-23,Referral,8,1749,6,True,False
+2020-11-23,Referral,0,1749,1749,True,False
+2021-01-11,Referral,1,2019,42,True,False
+2020-12-07,Paid Search,4,1532,13,True,False
+2020-11-09,Organic Search,8,5563,18,True,False
+2020-11-30,Referral,1,1903,48,True,False
+2020-10-26,Paid Search,10,97,1,True,True
+2020-11-16,Unknown,1,3854,128,True,False
+2020-11-02,Direct,11,3860,4,True,False
+2020-10-26,Direct,8,472,1,True,True
+2020-12-14,Referral,4,2262,26,True,False
+2020-11-16,Paid Search,4,900,10,True,False
+2020-11-09,Referral,10,1327,5,True,False
+2020-12-14,Unknown,4,5585,32,True,False
+2020-11-30,Referral,4,1903,6,True,False
+2020-11-23,Unknown,9,4316,2,False,False
+2020-11-23,Direct,2,4486,78,True,False
+2021-01-18,Referral,0,1886,1886,True,False
+2020-11-16,Paid Search,3,900,18,True,False
+2020-12-14,Organic Search,5,9211,43,True,False
+2020-12-14,Organic Search,3,9211,88,True,False
+2020-12-21,Unknown,5,3930,9,False,False
+2021-01-25,Unknown,0,4306,4306,False,False
+2020-12-07,Unknown,6,6384,19,True,False
+2020-12-28,Organic Search,2,6250,45,True,False
+2020-11-09,Referral,6,1327,2,True,False
+2020-11-09,Organic Search,6,5563,17,True,False
+2020-12-21,Unknown,3,3930,28,True,False
+2020-12-21,Paid Search,3,921,8,True,False
+2020-11-16,Unknown,5,3854,18,True,False
+2020-11-02,Direct,1,3860,102,True,False
+2020-11-23,Organic Search,3,7200,70,True,False
+2020-12-28,Referral,3,1551,4,True,False
+2020-11-02,Unknown,8,3808,5,True,False
+2020-11-09,Direct,4,3477,48,True,False
+2020-11-23,Direct,8,4486,15,True,False
+2020-11-30,Paid Search,8,1249,2,False,False
+2020-11-02,Direct,9,3860,13,True,False
+2020-11-16,Paid Search,0,900,900,True,False
+2020-10-26,Unknown,2,437,4,True,True
+2020-12-14,Paid Search,2,1343,23,True,False
+2020-11-09,Referral,11,1327,3,False,False
+2020-11-23,Direct,7,4486,16,True,False
+2020-12-21,Paid Search,1,921,14,True,False
+2020-12-21,Referral,5,1622,5,False,False
+2020-11-30,Direct,2,5004,79,True,False
+2020-11-16,Organic Search,5,6504,29,True,False
+2020-10-26,Referral,6,190,0,True,True
+2020-11-23,Organic Search,2,7200,122,True,False
+2021-01-04,Referral,1,2006,34,True,False
+2020-12-28,Direct,3,3927,21,True,False
+2020-11-30,Direct,5,5004,35,True,False
+2021-01-18,Referral,1,1886,29,False,False
+2020-10-26,Direct,7,472,1,True,True
+2021-01-11,Organic Search,0,8025,8025,True,False
+2020-11-02,Unknown,12,3808,0,False,False
+2020-12-07,Paid Search,0,1532,1532,True,False
+2020-11-09,Organic Search,5,5563,37,True,False
+2020-11-23,Direct,1,4486,113,True,False
+2020-11-09,Paid Search,0,814,814,True,False
+2020-12-14,Referral,3,2262,33,True,False
+2020-12-14,Paid Search,1,1343,18,True,False
+2020-11-09,Direct,11,3477,6,False,False
+2020-12-07,Direct,3,6526,37,True,False
+2020-12-21,Organic Search,0,6588,6588,True,False
+2020-10-26,Paid Search,7,97,0,True,True
+2020-12-28,Referral,0,1551,1551,True,False
+2021-01-04,Paid Search,2,1207,12,True,False
+2020-12-21,Direct,3,3952,23,True,False
+2020-10-26,Unknown,5,437,0,True,True
+2020-11-09,Direct,6,3477,11,True,False
+2020-11-09,Organic Search,4,5563,70,True,False
+2020-11-23,Unknown,7,4316,18,True,False
+2020-12-21,Direct,5,3952,6,False,False
+2020-12-07,Referral,1,2600,37,True,False
+2020-11-16,Direct,4,4084,41,True,False
+2020-12-07,Paid Search,7,1532,2,False,False
+2020-11-09,Direct,2,3477,70,True,False
+2020-11-30,Organic Search,2,8202,112,True,False
+2020-11-30,Organic Search,7,8202,31,True,False
+2020-11-30,Organic Search,1,8202,248,True,False
+2020-11-23,Direct,5,4486,16,True,False
+2020-11-30,Paid Search,1,1249,40,True,False
+2020-12-07,Referral,2,2600,23,True,False
+2020-12-07,Referral,7,2600,3,False,False
+2020-11-16,Direct,10,4084,3,False,False
+2020-11-02,Unknown,1,3808,76,True,False
+2021-01-04,Referral,0,2006,2006,True,False
+2021-01-04,Organic Search,2,8764,78,True,False
+2021-01-04,Organic Search,3,8764,51,False,False
+2020-11-23,Unknown,8,4316,8,True,False
+2020-11-09,Paid Search,7,814,0,True,False
+2020-11-16,Organic Search,3,6504,127,True,False
+2020-11-16,Organic Search,7,6504,25,True,False
+2020-11-23,Organic Search,6,7200,31,True,False
+2020-12-28,Paid Search,0,857,857,True,False
+2020-12-14,Referral,5,2262,10,True,False
+2020-12-07,Organic Search,4,10516,101,True,False
+2020-11-23,Referral,5,1749,5,True,False
+2020-11-09,Organic Search,7,5563,18,True,False
+2021-01-11,Unknown,1,4807,86,True,False
+2020-11-30,Organic Search,8,8202,13,False,False
+2020-11-30,Organic Search,4,8202,55,True,False
+2020-11-16,Unknown,2,3854,60,True,False
+2020-11-16,Organic Search,4,6504,66,True,False
+2020-11-16,Organic Search,0,6504,6504,True,False
+2020-10-26,Referral,11,190,0,True,True
+2021-01-04,Paid Search,3,1207,6,False,False
+2020-10-26,Unknown,3,437,4,True,True
+2020-11-23,Referral,9,1749,3,False,False
+2020-12-07,Direct,4,6526,64,True,False
+2020-11-23,Unknown,6,4316,20,True,False
+2020-11-09,Paid Search,9,814,1,True,False
+2020-12-21,Referral,0,1622,1622,True,False
+2020-11-02,Direct,10,3860,5,True,False
+2020-11-23,Organic Search,4,7200,34,True,False
+2020-10-26,Direct,13,472,0,False,True
+2021-01-18,Direct,0,4827,4827,True,False
+2020-10-26,Paid Search,11,97,0,True,True
+2020-11-02,Organic Search,10,6353,15,True,False
+2020-11-02,Organic Search,9,6353,15,True,False
+2020-11-02,Paid Search,5,947,12,True,False
+2020-11-30,Paid Search,2,1249,20,True,False
+2020-10-26,Referral,8,190,0,True,True
+2020-11-02,Direct,5,3860,39,True,False
+2020-12-14,Paid Search,4,1343,10,True,False
+2020-11-16,Referral,0,1564,1564,True,False
+2020-12-14,Unknown,6,5585,10,False,False
+2021-01-04,Unknown,0,5106,5106,True,False
+2020-11-02,Referral,7,1532,4,True,False
+2021-01-04,Direct,3,5375,16,False,False
+2020-12-21,Paid Search,4,921,2,True,False
+2021-01-18,Paid Search,1,1124,15,False,False
+2020-11-09,Unknown,6,3409,12,True,False
+2020-11-09,Unknown,1,3409,118,True,False
+2020-11-16,Organic Search,9,6504,14,True,False
+2020-10-26,Referral,2,190,2,True,True
+2020-10-26,Direct,3,472,3,True,True
+2020-11-16,Direct,5,4084,20,True,False
+2020-11-02,Referral,9,1532,7,True,False
+2020-12-07,Paid Search,2,1532,7,True,False
+2020-11-09,Organic Search,10,5563,13,True,False
+2020-12-07,Direct,7,6526,11,False,False
+2021-01-11,Direct,2,5074,39,False,False
+2020-12-28,Direct,4,3927,11,False,False
+2020-10-26,Direct,5,472,0,True,True
+2020-10-26,Direct,10,472,0,True,True
+2020-12-14,Paid Search,6,1343,1,False,False
+2020-10-26,Organic Search,12,750,1,True,True
+2020-12-14,Unknown,3,5585,48,True,False
+2020-11-16,Direct,6,4084,18,True,False
+2020-11-16,Direct,3,4084,89,True,False
+2020-11-02,Unknown,10,3808,3,True,False
+2020-11-23,Referral,7,1749,4,True,False
+2020-11-30,Referral,5,1903,6,True,False
+2020-11-23,Direct,9,4486,5,False,False
+2021-01-11,Direct,0,5074,5074,True,False
+2020-12-21,Referral,3,1622,13,True,False
+2020-11-02,Paid Search,10,947,3,True,False
+2020-11-09,Unknown,3,3409,66,True,False
+2020-11-09,Unknown,10,3409,9,True,False
+2020-12-28,Paid Search,3,857,6,True,False
+2020-10-26,Direct,2,472,6,True,True
+2020-10-26,Unknown,0,437,437,True,True
+2020-11-09,Referral,8,1327,5,True,False
+2020-12-07,Organic Search,7,10516,17,False,False
+2020-11-30,Unknown,4,4837,25,True,False
+2020-12-14,Organic Search,4,9211,69,True,False
+2020-10-26,Paid Search,12,97,0,True,True
+2020-11-02,Paid Search,9,947,4,True,False
+2020-11-02,Referral,6,1532,7,True,False
+2021-01-04,Referral,3,2006,17,False,False
+2021-01-11,Referral,0,2019,2019,True,False
+2020-12-21,Unknown,2,3930,34,True,False
+2020-11-02,Organic Search,3,6353,69,True,False
+2020-12-14,Direct,5,5820,32,True,False
+2020-11-23,Paid Search,5,983,2,True,False
+2020-11-23,Paid Search,6,983,1,True,False
+2020-11-09,Unknown,5,3409,21,True,False
+2020-12-28,Direct,2,3927,25,True,False
+2020-11-23,Organic Search,9,7200,13,False,False
+2020-10-26,Organic Search,11,750,0,True,True
+2020-11-16,Referral,6,1564,3,True,False
+2020-12-14,Unknown,2,5585,49,True,False
+2020-11-30,Unknown,8,4837,10,False,False
+2020-12-07,Direct,2,6526,50,True,False
+2020-12-14,Organic Search,0,9211,9211,True,False
+2020-10-26,Paid Search,8,97,0,True,True
+2020-11-16,Unknown,4,3854,43,True,False
+2020-11-30,Paid Search,5,1249,8,True,False
+2020-11-30,Paid Search,3,1249,7,True,False
+2020-11-30,Direct,3,5004,39,True,False
+2020-11-16,Organic Search,6,6504,25,True,False
+2020-12-07,Unknown,4,6384,43,True,False
+2020-10-26,Direct,9,472,0,True,True
+2021-01-18,Unknown,1,4724,60,False,False
+2020-10-26,Organic Search,1,750,11,True,True
+2020-11-16,Referral,3,1564,26,True,False
+2020-11-02,Referral,5,1532,17,True,False
+2020-11-23,Referral,3,1749,19,True,False
+2020-12-07,Paid Search,5,1532,4,True,False
+2020-11-09,Organic Search,0,5563,5563,True,False
+2020-11-30,Unknown,3,4837,32,True,False
+2020-11-09,Paid Search,4,814,15,True,False
+2021-01-25,Organic Search,0,7175,7175,False,False
+2020-11-16,Referral,8,1564,3,True,False
+2020-11-09,Referral,0,1327,1327,True,False
+2020-11-02,Referral,1,1532,42,True,False
+2020-11-09,Direct,5,3477,28,True,False
+2020-12-28,Unknown,4,3715,15,False,False
+2020-11-30,Unknown,2,4837,85,True,False
+2020-12-21,Organic Search,5,6588,22,False,False
+2020-12-21,Unknown,4,3930,17,True,False
+2020-10-26,Paid Search,3,97,1,True,True
+2020-11-23,Paid Search,7,983,1,True,False
+2020-11-23,Paid Search,9,983,0,False,False
+2020-11-09,Unknown,7,3409,14,True,False
+2020-11-30,Direct,6,5004,23,True,False
+2020-11-02,Direct,2,3860,76,True,False
+2020-11-02,Unknown,6,3808,24,True,False
+2020-12-14,Organic Search,1,9211,110,True,False
+2020-11-23,Unknown,4,4316,19,True,False
+2020-10-26,Referral,4,190,0,True,True
+2020-11-16,Paid Search,5,900,4,True,False
+2020-10-26,Unknown,9,437,2,True,True
+2020-11-09,Referral,2,1327,18,True,False
+2021-01-04,Direct,1,5375,92,True,False
+2020-11-09,Direct,7,3477,5,True,False
+2020-12-07,Direct,5,6526,27,True,False
+2020-12-21,Organic Search,1,6588,106,True,False
+2020-11-02,Paid Search,0,947,947,True,False
+2020-11-30,Paid Search,0,1249,1249,True,False
+2020-11-30,Direct,8,5004,13,False,False
+2021-01-25,Direct,0,4454,4454,False,False
+2020-11-16,Paid Search,7,900,1,True,False
+2020-10-26,Unknown,12,437,0,True,True
+2020-10-26,Organic Search,9,750,1,True,True
+2020-11-02,Referral,2,1532,28,True,False
+2020-11-30,Unknown,1,4837,137,True,False
+2020-11-16,Unknown,10,3854,7,False,False
+2020-11-09,Paid Search,2,814,15,True,False
+2020-12-14,Direct,1,5820,87,True,False
+2020-12-14,Direct,0,5820,5820,True,False
+2020-11-02,Paid Search,3,947,18,True,False
+2020-10-26,Referral,3,190,0,True,True
+2020-10-26,Unknown,6,437,1,True,True
+2020-10-26,Organic Search,6,750,0,True,True
+2020-10-26,Organic Search,4,750,4,True,True
+2020-11-16,Referral,2,1564,36,True,False
+2020-12-28,Unknown,1,3715,40,True,False
+2020-11-23,Direct,6,4486,15,True,False
+2020-11-16,Unknown,8,3854,10,True,False
+2020-11-09,Paid Search,6,814,3,True,False
+2021-01-11,Paid Search,1,1083,21,True,False
+2020-11-09,Unknown,4,3409,46,True,False
+2020-11-30,Direct,0,5004,5004,True,False
+2020-10-26,Referral,1,190,6,True,True
+2020-11-02,Direct,0,3860,3860,True,False
+2020-10-26,Direct,4,472,3,True,True
+2020-11-16,Paid Search,9,900,2,True,False
+2020-10-26,Unknown,8,437,0,True,True
+2020-12-14,Paid Search,5,1343,7,True,False
+2021-01-04,Unknown,1,5106,89,True,False
+2020-11-02,Referral,0,1532,1532,True,False
+2021-01-04,Direct,0,5375,5375,True,False
+2021-01-11,Unknown,2,4807,47,False,False
+2020-12-21,Direct,1,3952,46,True,False
+2020-10-26,Unknown,10,437,0,True,True
+2020-12-28,Organic Search,1,6250,81,True,False
+2020-11-16,Referral,1,1564,61,True,False
+2020-11-02,Unknown,4,3808,33,True,False
+2020-11-09,Direct,9,3477,12,True,False
+2020-12-14,Direct,4,5820,44,True,False
+2020-11-16,Paid Search,6,900,2,True,False
+2020-12-14,Paid Search,3,1343,16,True,False
+2020-11-16,Referral,4,1564,19,True,False
+2020-11-09,Referral,1,1327,44,True,False
+2020-12-14,Unknown,0,5585,5585,True,False
+2020-11-16,Direct,1,4084,132,True,False
+2020-11-02,Unknown,0,3808,3808,True,False
+2020-11-30,Organic Search,5,8202,37,True,False
+2020-12-21,Unknown,0,3930,3930,True,False
+2020-11-23,Direct,3,4486,55,True,False
+2020-12-21,Paid Search,0,921,921,True,False
+2020-11-02,Organic Search,6,6353,34,True,False
+2020-11-02,Paid Search,12,947,0,False,False
+2020-11-30,Direct,4,5004,25,True,False
+2020-11-16,Organic Search,8,6504,19,True,False
+2020-10-26,Referral,0,190,190,True,True
+2020-12-28,Paid Search,2,857,9,True,False
+2020-12-07,Organic Search,1,10516,179,True,False
+2021-01-04,Unknown,2,5106,51,True,False
+2021-01-11,Referral,2,2019,15,False,False
+2020-12-28,Unknown,2,3715,17,True,False
+2020-10-26,Paid Search,2,97,2,True,True
+2020-10-26,Paid Search,1,97,2,True,True
+2020-11-09,Paid Search,8,814,0,True,False
+2020-11-09,Paid Search,1,814,29,True,False
+2020-11-02,Organic Search,11,6353,9,True,False
+2020-11-02,Paid Search,7,947,4,True,False
+2020-11-30,Paid Search,6,1249,2,True,False
+2020-11-30,Paid Search,4,1249,7,True,False
+2021-01-04,Paid Search,0,1207,1207,True,False
+2020-12-07,Referral,5,2600,11,True,False
+2020-11-02,Referral,8,1532,0,True,False
+2020-11-02,Referral,3,1532,28,True,False
+2020-11-02,Unknown,5,3808,37,True,False
+2020-11-23,Referral,6,1749,7,True,False
+2020-12-07,Paid Search,6,1532,6,True,False
+2020-11-30,Unknown,7,4837,15,True,False
+2020-12-14,Organic Search,6,9211,25,False,False
+2020-10-26,Paid Search,0,97,97,True,True
+2020-12-21,Referral,4,1622,8,True,False
+2020-12-14,Direct,6,5820,17,False,False
+2020-12-07,Referral,0,2600,2600,True,False
+2020-12-28,Organic Search,0,6250,6250,True,False
+2021-01-25,Paid Search,0,1046,1046,False,False
+2020-11-09,Referral,4,1327,19,True,False
+2020-11-09,Referral,3,1327,20,True,False
+2020-12-07,Organic Search,5,10516,49,True,False
+2021-01-25,Referral,0,1684,1684,False,False
+2020-11-30,Unknown,6,4837,18,True,False
+2020-12-07,Direct,0,6526,6526,True,False
+2020-11-02,Organic Search,12,6353,6,False,False
+2020-12-28,Direct,0,3927,3927,True,False
+2020-11-16,Organic Search,1,6504,214,True,False
+2020-12-07,Unknown,5,6384,28,True,False
+2020-12-07,Unknown,2,6384,38,True,False
+2020-11-23,Organic Search,5,7200,29,True,False
+2020-10-26,Direct,6,472,0,True,True
+2021-01-18,Direct,1,4827,77,False,False
+2020-11-16,Paid Search,1,900,39,True,False
+2020-11-16,Referral,5,1564,7,True,False
+2021-01-11,Organic Search,1,8025,159,True,False
+2020-11-30,Referral,2,1903,33,True,False
+2020-10-26,Paid Search,9,97,1,True,True
+2020-11-16,Unknown,3,3854,52,True,False
+2020-11-09,Paid Search,5,814,4,True,False
+2020-11-09,Paid Search,11,814,0,False,False
+2020-11-02,Organic Search,2,6353,107,True,False
+2020-11-02,Organic Search,0,6353,6353,True,False
+2020-11-23,Paid Search,2,983,13,True,False
+2020-11-02,Direct,12,3860,1,False,False
+2020-12-21,Direct,0,3952,3952,True,False
+2020-10-26,Organic Search,5,750,3,True,True
+2021-01-04,Organic Search,0,8764,8764,True,False
