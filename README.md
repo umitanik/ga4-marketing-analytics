@@ -4,6 +4,13 @@ End-to-end analytics project on Google's public GA4 e-commerce dataset (4.3M eve
 
 **Stack:** BigQuery (SQL) · Python (pandas, statsmodels, scipy) · Tableau Public
 
+**Interactive dashboard:** [Acquisition & Funnel](https://public.tableau.com/views/GA4MarketingAnalytics/AcquisitionFunnel) · [Retention & Targeting](https://public.tableau.com/views/GA4MarketingAnalytics/RetentionTargeting) (Tableau Public)
+
+<p>
+  <a href="https://public.tableau.com/views/GA4MarketingAnalytics/AcquisitionFunnel"><img src="dashboard/acquisition_funnel.png" width="49%" alt="Acquisition & Funnel dashboard: KPIs, funnel, channel quality and weekly trend"></a>
+  <a href="https://public.tableau.com/views/GA4MarketingAnalytics/RetentionTargeting"><img src="dashboard/retention_targeting.png" width="49%" alt="Retention & Targeting dashboard: cohort retention, purchase drivers and retargeting gain"></a>
+</p>
+
 ## Approach
 
 1. **Datamart in BigQuery:** staging → core (`dim_users`, `fct_sessions`, `fct_orders`) → marts, with data tests after every layer.
@@ -32,6 +39,7 @@ sql/
 └── 03_marts/         funnel, channel quality, cohort retention, daily KPIs, first session (+ checks)
 notebooks/            hypothesis tests, logistic regression, retargeting audience
 data/                 CSV exports used by the dashboard
+dashboard/            dashboard screenshots (live version on Tableau Public)
 docs/                 data quality notes
 ```
 
